@@ -13,4 +13,4 @@ title VARCHAR(8)
 INSERT INTO links (`url`, `title`)
     VALUES ('https://www.how2doit.ga', 'how2doit');
     
-/* Import this file to your database created for url shortner */
+/* Import this file to your database created for url shortner. */
