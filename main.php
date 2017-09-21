@@ -1,10 +1,3 @@
-<!-- 
-URL SHORTNER Designed and Developed by HRWNdR
-Developer: Harwinder Singh
-Version: v1.0
-Facebook/iamhrwndr
-Github/hrwndr
--->
 <?php
 include 'setup.php';
 $connect = new mysqli($host, $dbuser, $dbpass, $dbname);
