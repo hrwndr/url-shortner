@@ -59,7 +59,9 @@ body {
         -webkit-border-radius: 3px 0 0 3px;
         border-radius: 3px 0 0 3px;      
     }
-    
+    .textarea {
+	    color: #333;
+}
     .form-wrapper input:focus {
         outline: 0;
         background: #fff;
