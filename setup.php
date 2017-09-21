@@ -1,10 +1,3 @@
-<!-- 
-URL SHORTNER Designed and Developed by HRWNdR
-Developer: Harwinder Singh
-Version: v1.0
-Facebook/iamhrwndr
-Github/hrwndr
--->
 <?php
 $host = 'localhost'; // Your Host Name
 $dbuser = 'dbuser'; // Database Username
