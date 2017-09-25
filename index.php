@@ -21,7 +21,7 @@ Github/hrwndr
     <body class="fade-in-ii">
         <form class="form-wrapper cf" method="post" action="" >
             <font size="8" style="font-family: 'Seaweed Script', cursive;" alt="URL SHORTNER by HRWNdR"><?php echo $sitename; ?></font><p />
-            <input type="text" class="textarea" name="textarea" placeholder="Enter Your Link Here..." required>
+            <input type="text" class="textarea" name="textarea" autocomplete="off" placeholder="Enter Your Link Here..." required>
             <button type="submit" class="sbtn" name="shrt">SHORT IT!</button>
         </form>
         <div class="byline"><p>URL Shortner Designed and Developed by <a href="http://www.facebook.com/iamhrwndr">HRWNdR</a></p></div>
