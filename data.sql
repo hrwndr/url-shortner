@@ -11,6 +11,6 @@ url TEXT(300) NOT NULL,
 title VARCHAR(8)
 );
 INSERT INTO links (`url`, `title`)
-    VALUES ('https://www.how2doit.ga', 'how2doit');
+    VALUES ('https://www.facebook.com/iamhrwndr', 'hrwndr');
     
 /* Import this file to your database created for url shortner. */
