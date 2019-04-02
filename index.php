@@ -24,6 +24,6 @@ Github/hrwndr
             <input type="text" class="textarea" name="textarea" autocomplete="off" placeholder="Enter Your Link Here..." required>
             <button type="submit" class="sbtn" name="shrt">SHORT IT!</button>
         </form>
-        <div class="byline"><p>URL Shortner Designed and Developed by <a href="http://www.facebook.com/iamhrwndr">HRWNdR</a></p></div>
+        <div class="byline"><p>URL Shortner Designed and Developed by <a href="http://www.instagram.com/hrwndr">HRWNdR</a></p></div>
     </body>
 </html>
